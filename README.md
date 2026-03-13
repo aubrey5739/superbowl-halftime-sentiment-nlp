@@ -3,7 +3,7 @@
 Public Sentiment Analysis of Super Bowl Halftime Shows — Before & After the NFL's Roc Nation Partnership  
 Unstructured Data Analytics | MSBA, University of Texas | Fall 2025
 
-**Team (Group 3):** Aileen · Mikyung Oh · Emma · Liyan · Nisha
+**Team (Group 3):** Aileen · Aubrey Oh · Emma · Liyan · Nisha
 
 ---
 
@@ -112,7 +112,7 @@ Runs VADER sentiment analysis and exploratory data analysis on both platforms.
 
 ---
 
-### 4. `topic_modeling_Emma.ipynb`
+### 4. `topic_modeling.ipynb`
 Applies **BERTopic** separately to Reddit and YouTube corpora.
 
 **Model stack:** `all-MiniLM-L6-v2` embeddings → HDBSCAN clustering → KeyBERT representation  
@@ -131,7 +131,7 @@ Applies **BERTopic** separately to Reddit and YouTube corpora.
 
 ---
 
-### 5. `Roc_Nisha.ipynb`
+### 5. `Roc.ipynb`
 Statistical comparison of pre vs. post Roc Nation eras.
 
 - Sentiment distributions by era and platform (boxplots)
@@ -142,7 +142,7 @@ Statistical comparison of pre vs. post Roc Nation eras.
 
 ---
 
-### 6. `integrated_visualization_Julie.ipynb`
+### 6. `integrated_visualization.ipynb`
 Combines all team outputs into a unified visual dashboard.
 
 4 sections: Sentiment Evolution · Topic Evolution · Show-Specific Analysis · Statistical Rigor
